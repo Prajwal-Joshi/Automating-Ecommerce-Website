@@ -2,15 +2,15 @@
 Portfolio automation project demonstrating e-commerce testing using Java, Selenium, and TestNG
 List of Documents Available in the Google Drive Link
 
-1) Test Strategy Document 2) Test Plan 3) Test Cases 4) Choosing Test Automation Framework:
+ 1) Test Strategy Document 2) Test Plan 3) Test Cases 4) Choosing Test Automation Framework:
 
-https://drive.google.com/drive/folders/1bQPhLU1RXWTzPLVAorhQpCctVE3S7Dpe?usp=sharing
+    https://drive.google.com/drive/folders/1bQPhLU1RXWTzPLVAorhQpCctVE3S7Dpe?usp=sharing
 
 Application used: https://naveenautomationlabs.com/opencart/ 
 
 A Java Selenium TestNG framework is a robust automation framework that leverages the Java programming language, Selenium WebDriver for web interactions, and TestNG for efficient test organization and execution. It provides a structured approach to writing and executing automated test scripts.
 
-Steps to configure and run the automated test scripts.
+Steps to Configure and Run Automated Test Scripts.
 1) Import the Project:
    a) Open Eclipse IDE.
       Go to File > Open Projects from File System...
@@ -20,6 +20,7 @@ Steps to configure and run the automated test scripts.
       Click Finish. 
 
    b) Download the latest version of Java Selenium binding from https://www.selenium.dev/downloads/ 
+   
    c) Download TestNG Jar file from https://mvnrepository.com/artifact/org.testng/testng/6.9.10
 
 2) Configure Java Build Path: Right-click on the project in Eclipse.
@@ -30,7 +31,7 @@ Steps to configure and run the automated test scripts.
 
    Click on the Libraries tab.
 
-   Add all Selenium and TestNG jar files to Class-Path, Apply & Close.
+   Add all Selenium and TestNG jar files to the Class-Path, apply, and close.
 
 3) Install TestNG Plugin: Go to Help > Eclipse Marketplace.
    
